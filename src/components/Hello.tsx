@@ -15,4 +15,7 @@ export class Hello extends React.Component < HelloProps, {}> {
 }
 
 console.log("test");
+console.log("test");
+console.log("test11");
+console.log("test");
 
